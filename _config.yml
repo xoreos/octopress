@@ -4,10 +4,10 @@
 
 url: http://xoreos.github.io
 title: xoreos
-subtitle: A reimplementation of the BioWare Aurora Engine
+subtitle: An open-source reimplementation of the BioWare Aurora Engine
 author: xoreos
 simple_search: https://google.com/search
-description: xoreos is an ongoing FLOSS project to reimplement BioWare's Aurora engine (and derivatives) as used in their 3D games, beginning with Neverwinter Nights. The goal is to have a portable program to play those games even on operating systems those games were never meant to be played on, such as GNU/Linux and Mac OS X.
+description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
