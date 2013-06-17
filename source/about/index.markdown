@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-{% img http://xoreos.org/images/screenshot.png %}
+-> {% img http://xoreos.org/images/screenshot.png %} <-
 
 ## <a id="whatis"></a>What is xoreos?
 
@@ -33,4 +33,4 @@ The most pressing matter, however, is finding a person with knowledge of OpenGL:
 
 ## <a id="detailedinfo"></a>Need more detailed information?
 
-You can find the project here on github and here is a repository containing assorted tools. The project wiki has further information: a more detailed description of the current status, more screenshots and a long TODO list. If you'd like to see some moving pictures, this youtube playlist has some (slightly outdated) videos to showcase the project. And if you'd like to contact us for any reason, please do so using the project mailing list
+You can find the project [here on github](https://github.com/xoreos/xoreos) and [here is a repository containing assorted tools](https://github.com/xoreos/xoreos-tools). [The project wiki](https://github.com/xoreos/xoreos/wiki) has further information: [a more detailed description of the current status](https://github.com/xoreos/xoreos/wiki#general-status), [more screenshots](https://github.com/xoreos/xoreos/wiki/NWN-Screenshots) and [a long TODO list](https://github.com/xoreos/xoreos/wiki/TODO). If you'd like to see some moving pictures, [this youtube playlist](https://www.youtube.com/playlist?list=PLNwbUoah6frK3PPzuUzf1qCYmSfUA4rW3&feature=mh_lolz) has some (slightly outdated) videos to showcase the project. And if you'd like to contact us for any reason, please do so using [the project mailing list](https://xoreos.org/mailman/listinfo/xoreos-devel).
