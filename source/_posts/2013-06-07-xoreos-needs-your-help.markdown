@@ -10,9 +10,9 @@ author: DrMcCoy
 **TL;DR:** xoreos needs contributors badly. Especially OpenGL wizards. I might give you cake.
 (If you haven’t heard about xoreos yet, please read the [short introduction on its website](/about/index.html), or my [previous blog post about it](http://drmccoy.de/gobsmacked/?p=484) before continuing with this post. Thanks.)
 
-{% img http://drmccoy.de/gobsmacked/wp-content/uploads/2013/06/xoreos_logo.png %}
+**NOTE**: This is a mirror of the original blog post here: http://drmccoy.de/gobsmacked/?p=530
 
-The xoreos logo: the word "xoreos" rendered in neon green
+{% img http://drmccoy.de/gobsmacked/wp-content/uploads/2013/06/xoreos_logo.png "The old xoreos logo: the word 'xoreos' rendered in neon green" %}
 
 People who are following [xoreos](http://xoreos.org/) a bit will already have noticed this: development has slowed considerably.
 
@@ -42,7 +42,7 @@ Furthermore, the [project website and logo](http://xoreos.org). I suck at design
 Of course, I’m always open for constructive criticism. Be it ideas on how to change the codebase for the better, be it ways to improve xoreos in general, be it anything at all, I’m all ears.
 My vision for xoreos is the following: I want it to prosper and grow into a portable FLOSS reimplementation of the Aurora engine, comparable to what [ScummVM](http://scummvm.org) is for adventure games and [GemRB](http://gemrb.org) is for Infinity engine games. Should you share my vision and want xoreos to succeed, please carry this post far and wide so that it might attract kindred spirits.
 
-So, please, if anything above looks like something you’d be interested in doing or if you have comments, questions, suggestions, feel free to contact me using the [project mailing list](https://xoreos.org/mailman/listinfo/xoreos-devel); or drop me a line over my [private email address](drmccoy@drmccoy.de); or comment directly here; or [catch me on IRC](irc://irc.freenode.net/xoreos). Do you know potentially interested people? Then tell them about xoreos.
+So, please, if anything above looks like something you’d be interested in doing or if you have comments, questions, suggestions, feel free to contact me using the [project mailing list](https://xoreos.org/mailman/listinfo/xoreos-devel); or drop me a line over my [private email address](drmccoy@drmccoy.de); or comment directly [here](http://drmccoy.de/gobsmacked/?p=530); or [catch me on IRC](irc://irc.freenode.net/xoreos). Do you know potentially interested people? Then tell them about xoreos.
 
 And yes, you can also write me to tell me I’m foolish to waste my time here if you really feel that way. ;)
 
