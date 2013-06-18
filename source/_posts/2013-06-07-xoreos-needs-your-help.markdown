@@ -8,7 +8,7 @@ author: DrMcCoy
 ---
 
 **TL;DR:** xoreos needs contributors badly. Especially OpenGL wizards. I might give you cake.
-(If you haven’t heard about xoreos yet, please read the [short introduction on its website](http://xoreos.org/), or my [previous blog post about it](http://drmccoy.de/gobsmacked/?p=484) before continuing with this post. Thanks.)
+(If you haven’t heard about xoreos yet, please read the [short introduction on its website](/about/index.html), or my [previous blog post about it](http://drmccoy.de/gobsmacked/?p=484) before continuing with this post. Thanks.)
 
 {% img http://drmccoy.de/gobsmacked/wp-content/uploads/2013/06/xoreos_logo.png %}
 
@@ -35,7 +35,9 @@ Most pressing is someone with experience in OpenGL and willingness to completely
 
 Also really great would be if people came forward to work on the reimplementation of the actual games. Most of them aren’t doing anything at all yet; many are missing basic file formats that need to be reverse engineered or fuzzed. This is probably the most interesting and fun work, at least from my perspective, but can also be quite hard and frustrating.
 
-Furthermore, the [project website and logo](http://xoreos.org). I suck at design and this shows. In short, the website and logo look horrible, but I can’t do a better job. It would be super if someone actually capable could redesign it, properly. Like always, I can’t grant any compensation except proper credits in the AUTHORS file and the website. Yeah, sucks, I know. If we ever meet face-to-face, you’ll get cake or deathbeer. I don’t expect people to fall over backwards to gift me their time, but if someone out there would like to surprise me, I’d be very grateful indeed.
+Furthermore, the [project website and logo](http://xoreos.org). I suck at design and this shows. In short, the website and logo look horrible, but I can’t do a better job. It would be super if someone actually capable could redesign it, properly. Like always, I can’t grant any compensation except proper credits in the AUTHORS file and the website. Yeah, sucks, I know. If we ever meet face-to-face, you’ll get cake or ~~death~~beer. I don’t expect people to fall over backwards to gift me their time, but if someone out there would like to surprise me, I’d be very grateful indeed.
+
+**UPDATE**: The website and logo design has changed already. :)
 
 Of course, I’m always open for constructive criticism. Be it ideas on how to change the codebase for the better, be it ways to improve xoreos in general, be it anything at all, I’m all ears.
 My vision for xoreos is the following: I want it to prosper and grow into a portable FLOSS reimplementation of the Aurora engine, comparable to what [ScummVM](http://scummvm.org) is for adventure games and [GemRB](http://gemrb.org) is for Infinity engine games. Should you share my vision and want xoreos to succeed, please carry this post far and wide so that it might attract kindred spirits.
