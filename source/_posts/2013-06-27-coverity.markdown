@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Coverity"
+date: 2013-06-27 10:20
+comments: true
+categories: [news]
+author: DrMcCoy
+---
+
+A few days ago, I registered xoreos for [Coverity Scan](http://scan.coverity.com/), a static analysis service that is free of charge for open source projects. ScummVM was already in there, so I knew how useful Coverity is.
+
+Since I had already ran cppcheck over the codebase in the past, the number of issues wasn’t high, still Coverity found 79 potential issues. Of course, 2/3 of them were false positives or intentional (mostly uninitialized member variables that are set later in init methods), but about 30 issues were real. I immediately started fixing them.
+
+I closed the last remaining issue yesterday, so now xoreos is issue-free according to Coverity. For now, at least. :)
