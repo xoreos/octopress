@@ -7,7 +7,7 @@ categories: [news]
 author: DrMcCoy
 ---
 
-At the suggestion of [ImperatorPrime](https://github.com/ImperatorPrime) I should set up a MediaWiki: [http://xoreos.org/wiki/](http://xoreos.org/wiki/). The sidebar link has also been updated to reflect the change.
+At the suggestion of [ImperatorPrime](https://github.com/ImperatorPrime) I should set up a MediaWiki: [http://wiki.xoreos.org/](http://wiki.xoreos.org/). The sidebar link has also been updated to reflect the change.
 
 This will hopefully be more flexible than the GitHub wiki, and will allow easy contributions by people outside of GitHub. The idea is that this will become a knowledge hub into the internals of BioWare's Aurora engine. Any interesting things anyone has found out, we'll be glad to have documented here. So please, if you feel the need to crawl deep into the bowls of the Aurora engine, or have already done so, add your newly-found understanding to our wiki. :)
 

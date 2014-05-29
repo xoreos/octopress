@@ -5,7 +5,7 @@ require "stringex"
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "drmccoy@xoreos.org"
-ssh_port       = "64222"
+ssh_port       = "64022"
 document_root  = "~/xoreos/"
 rsync_delete   = true
 rsync_args     = ""  # Any extra arguments to pass to rsync
