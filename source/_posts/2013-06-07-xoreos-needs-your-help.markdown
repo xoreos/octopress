@@ -12,7 +12,7 @@ author: DrMcCoy
 
 **NOTE**: This is a mirror of the original blog post here: http://drmccoy.de/gobsmacked/?p=530
 
-{% img http://drmccoy.de/gobsmacked/wp-content/uploads/2013/06/xoreos_logo.png "The old xoreos logo: the word 'xoreos' rendered in neon green" %}
+{% img https://drmccoy.de/gobsmacked/wp-content/uploads/2013/06/xoreos_logo.png "The old xoreos logo: the word 'xoreos' rendered in neon green" %}
 
 People who are following [xoreos](http://xoreos.org/) a bit will already have noticed this: development has slowed considerably.
 
