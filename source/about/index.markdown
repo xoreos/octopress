@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
--> {% img http://xoreos.org/images/screenshot.png %} <-
+-> {% img ../images/screenshot.png %} <-
 
 ## <a id="whatis"></a>What is xoreos?
 
