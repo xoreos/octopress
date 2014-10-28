@@ -12,6 +12,7 @@ footer: true
 - [Neverwinter Nights 2](https://en.wikipedia.org/wiki/Neverwinter_Nights_2)
   - GOG: http://www.gog.com/gamecard/neverwinter_nights_2_complete
 - [Star Wars: Knights of the Old Republic](https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic)
+  - GOG: http://www.gog.com/game/star_wars_knights_of_the_old_republic
   - Steam: http://store.steampowered.com/app/32370/
 - [Star Wars: Knights of the Old Republic II – The Sith Lords](https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic_II_–_The_Sith_Lords)
   - Steam: http://store.steampowered.com/app/208580
