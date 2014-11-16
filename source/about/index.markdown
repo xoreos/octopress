@@ -11,7 +11,7 @@ footer: true
 
 ## <a id="whatis"></a>What is xoreos?
 
-xoreos is an ongoing FLOSS project to reimplement [BioWare](https://en.wikipedia.org/wiki/BioWare's [Aurora engine](https://en.wikipedia.org/wiki/BioWare#Aurora_Engine) (and derivatives) as used in their 3D games, beginning with [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights). The goal is to have a portable program to play those games even on operating systems those games were never meant to be played on, such as GNU/Linux and Mac OS X.
+xoreos is an ongoing FLOSS project to reimplement [BioWare's Aurora engine](https://en.wikipedia.org/wiki/BioWare#Aurora_Engine) (and derivatives) as used in their 3D games, beginning with [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights). The goal is to have a portable program to play those games even on operating systems those games were never meant to be played on, such as GNU/Linux and Mac OS X.
 
 ## <a id="license"></a>How is it licensed?
 
