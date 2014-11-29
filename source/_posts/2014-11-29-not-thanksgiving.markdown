@@ -7,7 +7,7 @@ categories: [news]
 author: DrMcCoy
 ---
 
-I am not an US-citizen, but nevertheless, I think the time is right for an introspective blog posts about the progress and general state of the xoreos project and what I am thankful for. Oh, and no worries, I'm not throwing the towel here. :)
+I am not an US-citizen, but nevertheless, I think the time is right for an introspective blog post about the progress and general state of the xoreos project and what I am thankful for. Oh, and no worries, I'm not throwing the towel here. :)
 
 So, let's start with what has happened: there has been quite some work and changes and fixes under the hood. Not as much as I'd like, and no hugely visible new features yet, but still.
 
