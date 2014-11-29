@@ -28,7 +28,7 @@ On the code side, we have:
 * Icon:
   Embedded the [xoreos icon](https://github.com/xoreos/xoreos-media/blob/master/icons/svg/icon-grey.svg) into the executable to be displayed in the standard application icon of the operating system.
 * Loading progress:
-  Added a progress bar [visualizing](images/xoreos_progressbar.png) the game loading stages at startup.
+  Added a progress bar [visualizing](/images/xoreos_progressbar.png) the game loading stages at startup.
 * Split docs / tools repo:
   I split the xoreos-docs repository from the xoreos-tools repository. Both are now clean standalone repositories.
 
