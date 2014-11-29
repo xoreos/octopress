@@ -20,9 +20,9 @@ On the code side, we have:
 * FilePath and FileList cleanup:
   Lots of cleanup and restructuring in these utility classes handling paths, file names and lists of these.
 * Rewrote absolutize(), relativize(), normalize(), canonicalize():
-  These functions operate on path. They creating absolute paths from relative paths and vice versa, normalized (resolving ambiguities like "/./") or canonicalized (stronger disambiguities including symbolic links) versions. As a result, paths in the config file now properly resolve ~/ to the user's home directory.
+  These functions operate on path. They create absolute paths from relative paths and vice versa, normalized (resolving ambiguities like "/./") or canonicalized (stronger disambiguities including symbolic links) versions. As a result, paths in the config file now properly resolve ~/ to the user's home directory.
 * ConfigDir and UserDir:
-  Changed the location of the config file on GNU/Linux to $XDG\_CONFIG\_HOME/xoreos/xoreos.conf (i.e. following the [XDG Base Directory Specification](http://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html)) and on Mac OS X to ~/Library/Preferences/xoreos/xoreos.conf. Likewise, the default log path is now $XDG\_DATA\_HOME/xoreos/xoreos.log on GNU/Linux and ~/Library/Application Support/xoreos/xoreos.log on Mac OS OX. On Windows, but are still in $APPDATA/xoreos/.
+  Changed the location of the config file on GNU/Linux to $XDG\_CONFIG\_HOME/xoreos/xoreos.conf (i.e. following the [XDG Base Directory Specification](http://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html)) and on Mac OS X to ~/Library/Preferences/xoreos/xoreos.conf. Likewise, the default log path is now $XDG\_DATA\_HOME/xoreos/xoreos.log on GNU/Linux and ~/Library/Application Support/xoreos/xoreos.log on Mac OS OX. On Windows, they are still in $APPDATA/xoreos/.
 * UNUSED:
   Added an UNUSED macro to mark deliberately unused function parameters and enabled the compiler flag to warn about unused function parameters without this macro. This helps find places where the lack of usage was in error.
 * Icon:
@@ -47,10 +47,10 @@ There has also been several improvements on the documentation side of things:
 
 As you can see, this is quite a list. And that's only half of the story. Leading to what (or, more precisely, *who*) I am thankful for, there's been contributions by several incredible people:
 
-* I am thankful to [ImperatorPrime](https://github.com/ImperatorPrime), for wrangling the [Travis CI](https://travis-ci.org/xoreos/xoreos) integration. This also helped me in setting up a more comfortable, semi-automatic [Coverity Scan](https://scan.coverity.com/projects/544) integration
-* I am thankful to [Supermanu](https://github.com/Supermanu), for improving on the Neverwinter Nights GUI code and for continuing to implement the Neverwinter Nights character generator
-* I am thankful to [mirv](https://github.com/mirv-sillyfish), for starting to tackle the monumental task of rewriting the graphics subsystem. I'm looking forward to seeing this evolve, so that we can finally put my naive OpenGL code out of its misery
-* I am thankful to [clone2727](http://clone2727.blogspot.com/), for all his insights and advice over the years, for always having an open ear for my complaints and rants
+* I am thankful to [ImperatorPrime](https://github.com/ImperatorPrime), for wrangling the [Travis CI](https://travis-ci.org/xoreos/xoreos) integration. This also helped me in setting up a more comfortable, semi-automatic [Coverity Scan](https://scan.coverity.com/projects/544) integration.
+* I am thankful to [Supermanu](https://github.com/Supermanu), for improving on the Neverwinter Nights GUI code and for continuing to implement the Neverwinter Nights character generator.
+* I am thankful to [mirv](https://github.com/mirv-sillyfish), for starting to tackle the monumental task of rewriting the graphics subsystem. I'm looking forward to seeing this evolve, so that we can finally put my naive OpenGL code out of its misery.
+* I am thankful to [clone2727](http://clone2727.blogspot.com/), for all his insights and advice over the years, for always having an open ear for my complaints and rants.
 * I am thankful to all the other people providing me with help, with tips, bug reports, bug fixes, file format information, existing modding tools, Aurora engine knowledge, complaints, offers to contribute, etc., etc., etc.
 
 There, this is what's happened in the last 7 month since the last blog post; this is the current state of the project. Looking forward, here's hoping that we all continue to find time to work on xoreos, that maybe more people will join us and that together, we can make this project bloom into something wonderful.
