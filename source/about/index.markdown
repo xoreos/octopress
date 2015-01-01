@@ -15,7 +15,7 @@ xoreos is an ongoing FLOSS project to reimplement [BioWare's Aurora engine](http
 
 ## <a id="license"></a>How is it licensed?
 
-xoreos is free software and licensed under the terms of the [GNU General Public License version 3](https://github.com/DrMcCoy/xoreos/blob/master/COPYING) or later (GPLv3+).
+xoreos is free software and licensed under the terms of the [GNU General Public License version 3](https://github.com/xoreos/xoreos/blob/master/COPYING) or later (GPLv3+).
 
 ## <a id="piracy"></a>A note about piracy
 
