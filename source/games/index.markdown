@@ -15,6 +15,7 @@ footer: true
   - GOG: https://www.gog.com/game/star_wars_knights_of_the_old_republic
   - Steam: https://store.steampowered.com/app/32370/
 - [Star Wars: Knights of the Old Republic II – The Sith Lords](https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic_II_–_The_Sith_Lords)
+  - GOG: https://www.gog.com/game/star_wars_knights_of_the_old_republic_ii_the_sith_lords
   - Steam: https://store.steampowered.com/app/208580
 - [Jade Empire](https://en.wikipedia.org/wiki/Jade_Empire)
   - GOG: https://www.gog.com/gamecard/jade_empire_special_edition
