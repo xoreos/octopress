@@ -52,3 +52,12 @@ footer: true
 :-: | :-: | :-: |
 {% img /screenshots/kotor2/ingame01.png 256 192 "Starting points" %} | | {% img /screenshots/kotor2/ingame02.png 256 192 "Selecting objects" %}
 {% img /screenshots/kotor2/ingame03.png 256 192 "Area overview" %}   | |
+
+## Neverwinter Nights 2 ##
+
+#### Ingame ####
+
+|||
+:-: | :-: | :-: |
+{% img /screenshots/nwn2/ingame01.png 256 192 "Starting point" %}   | | {% img /screenshots/nwn2/ingame02.png 256 192 "Area overview" %}
+{% img /screenshots/nwn2/ingame03.png 256 192 "Outside area" %} | | {% img /screenshots/nwn2/ingame04.png 256 192 "The Wall of the Faithless" %}
