@@ -1,3 +1,12 @@
+@mixin shadow-box($border: #fff .5em solid, $shadow: rgba(#000, .15) 0 1px 4px, $border-radius: .3em) {
+  @include border-radius($border-radius);
+  @include box-shadow($shadow);
+  @include box-sizing(border-box);
+  border: $border;
+}
+@mixin reset-shadow-box() {
+	@include shadow-box(0px, 0px, 0px);
+}
 @mixin square($property){
 	width: $property;
 	height: $property;
