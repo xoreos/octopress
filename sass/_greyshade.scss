@@ -222,7 +222,11 @@ body {
 }
 
 a {
-	color: $greyshade;
+	color: #005f88;
+}
+
+a:visited {
+	color: #001f48;
 }
 
 a:hover {
