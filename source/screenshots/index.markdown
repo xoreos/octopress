@@ -42,3 +42,9 @@ footer: true
 #### Ingame ####
 
 -> [{% imgcap /screenshots/nwn2/ingame01_t.png 256 192 Starting point %}](/screenshots/nwn2/ingame01.png) [{% imgcap /screenshots/nwn2/ingame02_t.png 256 192 Area overview %}](/screenshots/nwn2/ingame02.png) [{% imgcap /screenshots/nwn2/ingame03_t.png 256 192 Outside area %}](/screenshots/nwn2/ingame03.png) [{% imgcap /screenshots/nwn2/ingame04_t.png 256 192 The Wall of the Faithless %}](/screenshots/nwn2/ingame04.png) <-
+
+## Jade Empire ##
+
+#### Ingame ####
+
+-> [{% imgcap /screenshots/jade/ingame01_t.png 256 192 Two Rivers School %}](/screenshots/jade/ingame01.png) [{% imgcap /screenshots/jade/ingame02_t.png 256 192 Tea House in Tien's Landing %}](/screenshots/jade/ingame02.png) <-
