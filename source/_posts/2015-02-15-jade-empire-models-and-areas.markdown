@@ -81,4 +81,4 @@ Again, the same caveats as above apply: no proper material support yet. And due 
 
 -> [{% imgcap /images/blog/20150215_TiensLanding_t.png 256 160 Broken Transparency Masking %}](/images/blog/20150215_TiensLanding.png) [{% imgcap /images/blog/20150215_Heaven_t.png 256 160 Drawing Order vs Translucent Mesh %}](/images/blog/20150215_Heaven.png) [{% imgcap /images/blog/20150215_Mind_t.png 256 160 Bug in a Texture Loader? %}](/images/blog/20150215_Mind.png) <-
 
-Still, apart from the missing NPCs and objects, *Jade Empire* are now in a similar state to areas in *Knights of the Old Republic*. That counts for something, no? :)
+Still, apart from the missing NPCs and objects, *Jade Empire* areas are now in a similar state to areas in *Knights of the Old Republic*. That counts for something, no? :)
