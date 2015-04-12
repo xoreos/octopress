@@ -27,7 +27,7 @@ Well, these are, it seems, lightmaps, and several different ones depending on th
 - !w, for wieczór (evening)
 - !n, for noc (night)
 
-Since not all of them might exists for a given texture, I settled on just loading the first one available. And yes, that gave me textured area geometry. With just the lightmap applied, it still looked a bit low-res, however. No wonder, there needs to be a base texture as well. Unlike *Neverwinter Nights*, which just straight up names the textures and has simple TXI files for some texture properties, *The Witcher* has full-fledged material definitions integrated into the model. And they're shader-based. For the object models, it was enough to just take the texture names and run with it, but for the area geometry models, I had to extend this a bit. Granted, this is still a hack (we *still* don't support shaders), and fails occasionally, only less so than before.
+Since not all of them might exist for a given texture, I settled on just loading the first one available. And yes, that gave me textured area geometry. With just the lightmap applied, it still looked a bit low-res, however. No wonder, there needs to be a base texture as well. Unlike *Neverwinter Nights*, which just straight up names the textures and has simple TXI files for some texture properties, *The Witcher* has full-fledged material definitions integrated into the model. And they're shader-based. For the object models, it was enough to just take the texture names and run with it, but for the area geometry models, I had to extend this a bit. Granted, this is still a hack (we *still* don't support shaders), and fails occasionally, only less so than before.
 
 The result was this:
 
@@ -82,7 +82,7 @@ A few bits and pieces I found out or did during this endeavour:
 - I renamed the engine and namespace in xoreos from "thewitcher"/"TheWitcher" to "witcher"/"Witcher"
 - I noticed that *The Witcher*, unlike other Aurora games, encodes all strings in UTF-8. The language IDs are also wildly different. To get these together under one big tent, I changed how xoreos handles languages and encodings
 - *The Witcher* uses Lua scripts. I already knew that previously. But what I didn't know: it also, additionally, uses the traditional NWScript. That'll be a lot of "fun" to reimplement...
-- I found references to the [LuaCOM library](http://luaforge.net/projects/luacom/) in the *The Witcher* sources, which provides Lua bindings for ActiveX components. I *really*, *really*, *really* hope that's unused
+- I found references to the [LuaCOM library](http://luaforge.net/projects/luacom/) in the *The Witcher* disassembly, which provides Lua bindings for ActiveX components. I *really*, *really*, *really* hope that's unused
 
 In conclusion, area loading in *The Witcher* is now in a similar state to area loading in *Neverwinter Nights*, *Neverwinter Nights 2*, *Knights of the Old Republic*, *Knights of the Old Republic II* and *Jade Empire*. It's not flawless, and there's still a lot of things missing, but it's a start. :)
 
