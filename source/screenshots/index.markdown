@@ -48,3 +48,9 @@ footer: true
 #### Ingame ####
 
 -> [{% imgcap /screenshots/jade/ingame01_t.png 256 192 Two Rivers School %}](/screenshots/jade/ingame01.png) [{% imgcap /screenshots/jade/ingame02_t.png 256 192 Tea House in Tien's Landing %}](/screenshots/jade/ingame02.png) <-
+
+## The Witcher ##
+
+#### Ingame ####
+
+-> [{% imgcap /screenshots/witcher/ingame01_t.png 256 192 Kaer Morhen exterior %}](/screenshots/witcher/ingame01.png) [{% imgcap /screenshots/witcher/ingame02_t.png 256 192 Kaer Morhen interior %}](/screenshots/witcher/ingame02.png) [{% imgcap /screenshots/witcher/ingame03_t.png 256 192 Outskirts of Vizima %}](/screenshots/witcher/ingame03.png) <-
