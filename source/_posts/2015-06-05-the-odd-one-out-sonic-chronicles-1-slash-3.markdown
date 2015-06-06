@@ -48,4 +48,4 @@ There's 845 unique hashes in the GDA files found in Sonic. There's no real way t
 Phew, that was a lot of tedious work. Still, I managed to find the source strings for 534 of those 845 hashes, 63%. Sure, there's still 311 missing, but that'll have to wait for later.
 
 
-And that's it for the common BioWare file formats. Tune in next time when I go over the graphical formats.
+And that's it for the common BioWare file formats. [Tune in next time when I go over the graphical formats.](/blog/2015/06/06/the-odd-one-out-sonic-chronicles-2-slash-3/)
