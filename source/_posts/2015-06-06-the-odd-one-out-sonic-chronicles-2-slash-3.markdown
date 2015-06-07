@@ -95,4 +95,4 @@ I also found a fourth file for nearly each CBGT/PAL/2DA tuple: a CDPTH. Arranged
 
 -> [{% imgcap /images/blog/20150606_cdpth_t.png 255 188 Depth values %}](/images/blog/20150606_cdpth.png) <-
 
-*Now* I was ready to implement actual *Sonic Chronicles* stuff. I'll describe that in part 3.
+*Now* I was ready to implement actual *Sonic Chronicles* stuff. [I'll describe that in part 3](/blog/2015/06/07/the-odd-one-out-sonic-chronicles-3-slash-3/).
