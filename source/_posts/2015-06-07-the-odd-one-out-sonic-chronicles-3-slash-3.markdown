@@ -30,7 +30,7 @@ To make the game feel a bit more real, I rigged up few static panels showing the
 
 ### Area background ###
 
-After the intro panels, *Sonic Chronicles* in xoreos than dumps you right into the first area. Using a static panel again, it displays the mini map on the top screen, and the area background on the bottom screen. With the arrow keys, you can move the camera along the X and Y axes, and the area background panel follows the camera to draw the section.
+After the intro panels, *Sonic Chronicles* in xoreos then dumps you right into the first area. Using a static panel again, it displays the mini map on the top screen, and the area background on the bottom screen. With the arrow keys, you can move the camera along the X and Y axes, and the area background panel follows the camera to draw the section.
 
 ### Area placeables ###
 
