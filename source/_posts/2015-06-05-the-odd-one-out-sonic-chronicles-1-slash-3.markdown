@@ -11,7 +11,7 @@ And further down the path of getting all targetted games to show areas I go. Pre
 
 Yes, a Nintendo DS game. I wasn't so sure myself that game is actually a "proper" target for xoreos. I'm still not 100% sure, but I know now that it at least does use several BioWare file formats, as well as Nintendo DS formats. I also saw that some of those BioWare formats are used in *Dragon Age: Origins* as well, so *Sonic Chronicles* actually did provide a natural station on my path.
 
-I'll divide my report in three parts. In this post, I'll go a bit into the details of those common BioWare file formats. In the next post, I cover the graphics (that are mostly Nintendo formats). And the third post will show how I tied it all together in xoreos.
+I'll divide my report in three parts. In this post, I'll go a bit into the details of those common BioWare file formats. [In the next post](/blog/2015/06/06/the-odd-one-out-sonic-chronicles-2-slash-3/), I cover the graphics (that are mostly Nintendo formats). [And the third post](/blog/2015/06/07/the-odd-one-out-sonic-chronicles-3-slash-3/) will show how I tied it all together in xoreos.
 
 So, onwards to the BioWare formats.
 
