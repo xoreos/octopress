@@ -7,7 +7,7 @@ categories: [news]
 author: DrMcCoy
 ---
 
-(This is part 2 of 3 of my report about the progress on *Sonic Chronicles*. [Part 1 can be found here.](/blog/2015/06/05/the-odd-one-out-sonic-chronicles-1-slash-3/))
+(This is part 2 of 3 of my report about the progress on *Sonic Chronicles*. [Part 1 can be found here.](/blog/2015/06/05/the-odd-one-out-sonic-chronicles-1-slash-3/) [Part 3 can be found here.](/blog/2015/06/07/the-odd-one-out-sonic-chronicles-3-slash-3/))
 
 After having implemented readers for the common BioWare formats, I turned to the graphics formats. They're, for the most part, stock Nintendo DS formats, which means I could build upon detective work from the Nintendo modding scene. I have to thank three people in particular: [Martin Korth](http://problemkaputt.de/), of [NO$GBA](http://problemkaputt.de/gba.htm) fame, whose [GBATEK documentation](http://problemkaputt.de/gbatek.htm) is invaluable, [lowlines](http://llref.emutalk.net/) who figured out much of the [gory details of Nintendo's formats](http://llref.emutalk.net/docs/) and pleoNeX, whose GPLv3-licensed tool [Tinke](https://github.com/pleonex/tinke) provided the base on which I implemented my code.
 
