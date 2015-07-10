@@ -60,3 +60,9 @@ footer: true
 #### Ingame ####
 
 -> [{% imgcap /screenshots/sonic/title.png 256 384 Title screen %}](/screenshots/sonic/title.png) [{% imgcap /screenshots/sonic/ingame01.png 256 384 Green Hill Zone %}](/screenshots/sonic/ingame01.png) [{% imgcap /screenshots/sonic/ingame02.png 256 384 Blue Ridge Zone %}](/screenshots/sonic/ingame02.png) <-
+
+## Dragon Age: Origins ##
+
+#### Ingame ####
+
+-> [{% imgcap /screenshots/dao/ingame01_t.png 256 192 Arl Eamon's Estate %}](/screenshots/dao/ingame01.png) [{% imgcap /screenshots/dao/ingame02_t.png 256 192 Ostagar %}](/screenshots/dao/ingame02.png) [{% imgcap /screenshots/dao/ingame03_t.png 256 192 Tower of Ishal %}](/screenshots/dao/ingame03.png) <-
