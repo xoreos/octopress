@@ -54,3 +54,9 @@ footer: true
 #### Ingame ####
 
 -> [{% imgcap /screenshots/witcher/ingame01_t.png 256 192 Kaer Morhen exterior %}](/screenshots/witcher/ingame01.png) [{% imgcap /screenshots/witcher/ingame02_t.png 256 192 Kaer Morhen interior %}](/screenshots/witcher/ingame02.png) [{% imgcap /screenshots/witcher/ingame03_t.png 256 192 Outskirts of Vizima %}](/screenshots/witcher/ingame03.png) <-
+
+## Sonic Chronices: The Dark Brotherhood ##
+
+#### Ingame ####
+
+-> [{% imgcap /screenshots/sonic/title.png 256 384 Title screen %}](/screenshots/sonic/title.png) [{% imgcap /screenshots/sonic/ingame01.png 256 384 Green Hill Zone %}](/screenshots/sonic/ingame01.png) [{% imgcap /screenshots/sonic/ingame02.png 256 384 Blue Ridge Zone %}](/screenshots/sonic/ingame02.png) <-
