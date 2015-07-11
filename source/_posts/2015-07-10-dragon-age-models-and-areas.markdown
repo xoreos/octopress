@@ -82,7 +82,7 @@ Another problem is the tinting. The original game uses a shader to tint hair, sk
 
 -> [{% imgcap /images/blog/20150710_creatureh4_t.png 256 170 Duncan without hair %}](/images/blog/20150710_creatureh4.png) [{% imgcap /images/blog/20150710_creatureh5_t.png 256 170 Kitchen boy %}](/images/blog/20150710_creatureh5.png) [{% imgcap /images/blog/20150710_creatureh6_t.png 256 170 Cook %}](/images/blog/20150710_creatureh6.png) <-
 
--> [{% imgcap /images/blog/20150710_meetingofheads_t.png 256 170 Meating of the heads %}](/images/blog/20150710_meetingofheads.png) [{% imgcap /images/blog/20150710_bodiedheads_t.png 256 170 Bodies %}](/images/blog/20150710_bodiedheads.png) [{% imgcap /images/blog/20150710_helmets_t.png 256 170 Helmets %}](/images/blog/20150710_helmets.png) <-
+-> [{% imgcap /images/blog/20150710_meetingofheads_t.png 256 170 Meeting of the heads %}](/images/blog/20150710_meetingofheads.png) [{% imgcap /images/blog/20150710_bodiedheads_t.png 256 170 Bodies %}](/images/blog/20150710_bodiedheads.png) [{% imgcap /images/blog/20150710_helmets_t.png 256 170 Helmets %}](/images/blog/20150710_helmets.png) <-
 
 ### Dragon Age II ###
 
