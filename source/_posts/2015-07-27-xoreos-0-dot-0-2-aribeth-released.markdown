@@ -9,7 +9,7 @@ author: DrMcCoy
 
 We are proud to announce our very first release of [xoreos](https://github.com/xoreos/xoreos/releases/tag/v0.0.2) and [xoreos-tools](https://github.com/xoreos/xoreos-tools/releases/tag/v0.0.2), version 0.0.2, nicknamed "Aribeth".
 
-While xoreos is still far from being useful for end-users, all targeted games work insofar as that they at least show basic in-game areas. You can start the game, xoreos loads the game resources, loads a campaign or module, and then shows an area of the game. This accurately demonstrates what the xoreos project wants to accomplish.
+While xoreos is still far from being useful to end-users, all targeted games work insofar as that they at least show basic in-game areas. You can start the game, xoreos loads the game resources, loads a campaign or module, and then shows an area of the game. This accurately demonstrates what the xoreos project wants to accomplish.
 
 -> [{% imgcap /screenshots/nwn/ingame06_t.png 256 192 Neverwinter Nights %}](/screenshots/nwn/ingame06.png) [{% imgcap /screenshots/kotor/menu01_t.png 256 192 Knights of the Old Republic %}](/screenshots/kotor/menu01.png) [{% imgcap /screenshots/dao/ingame01_t.png 256 192 Dragon Age: Origins %}](/screenshots/dao/ingame01.png) <-
 
