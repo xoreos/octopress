@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jade Empire models and areas"
+title: "Jade Empire Models and Areas"
 date: 2015-02-15 16:25:51 +0100
 comments: true
 categories: [news]

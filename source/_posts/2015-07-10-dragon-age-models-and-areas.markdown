@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dragon Age models and areas"
+title: "Dragon Age Models and Areas"
 date: 2015-07-10 04:04:09 +0200
 comments: true
 categories: [news]

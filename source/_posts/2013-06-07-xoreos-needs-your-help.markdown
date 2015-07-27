@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xoreos needs your help"
+title: "xoreos Needs Your Help"
 date: 2013-06-07 11:00
 comments: true
 categories: [news]

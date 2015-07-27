@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The odd one out: Sonic Chronicles (2/3)"
+title: "The Odd One Out: Sonic Chronicles (2/3)"
 date: 2015-06-06 01:42:26 +0200
 comments: true
 categories: [news]

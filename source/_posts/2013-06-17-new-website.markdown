@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New website"
+title: "New Website"
 date: 2013-06-17 16:40
 comments: true
 categories: [news]
