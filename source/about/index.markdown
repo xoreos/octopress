@@ -23,13 +23,13 @@ To use xoreos to run the games, you have own the original game media. We do not 
 
 ## <a id="currentstatus"></a>What does currently work?
 
-In its current state, xoreos is still far away from its goal. At the moment, we are able to load resource archives and read basic file formats. Video and sound playing works, models are partially supported, and for earlier games, areas are shown and even some very basic gameplay exists.
+Currently, the "foundation" work of managing resources, reading many basic file formats, displaying graphics and playing sounds has been done. All targeted games show partial ingame graphics, such as the area geometry and objects, letting you fly around in a "spectator mode". Some games show partial menus, and something resembling a starting point for a script system is there.
+
+No actual "normal" gameplay is implemented yet, though.
 
 ## <a id="workleft"></a>What is left to do?
 
-A lot of work is still left to do. We are actively looking for developers interested in joining our efforts in taking apart BioWare games and reimplementing them. If that sounds something you would find exciting and feel capable of, please contact us. We are always happy to see new faces. :)
-
-The most pressing matter, however, is finding a person with knowledge of OpenGL: The current graphics subsystem is barebones and was quickly hacked together without much deeper understanding. If works for what is shown right now, but is far from being anywhere near adequate. There are a lot of features missing, and the performance is nothing to be proud of. Again, we would be very glad to welcome you in our still small team!
+A lot of work is still left to do. We are actively looking for developers interested in joining our efforts in taking apart BioWare games and reimplementing them. If that sounds something you would find exciting and feel capable of, please [contact us](https://wiki.xoreos.org/index.php?title=Contact_us). We are always happy to see new faces. :)
 
 ## <a id="detailedinfo"></a>Need more detailed information?
 
