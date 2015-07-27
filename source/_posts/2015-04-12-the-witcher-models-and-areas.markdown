@@ -3,7 +3,7 @@ layout: post
 title: "The Witcher Models and Areas"
 date: 2015-04-12 17:32:18 +0200
 comments: true
-categories: [news]
+categories: [news, progress]
 author: DrMcCoy
 ---
 

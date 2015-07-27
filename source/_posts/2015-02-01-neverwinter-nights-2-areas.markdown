@@ -3,7 +3,7 @@ layout: post
 title: "Neverwinter Nights 2 Areas"
 date: 2015-02-01 16:10
 comments: true
-categories: [news]
+categories: [news, progress]
 author: DrMcCoy
 ---
 

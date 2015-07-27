@@ -3,7 +3,7 @@ layout: post
 title: "A Hat in the Ring"
 date: 2013-06-07 11:32
 comments: true
-categories: [news]
+categories: [news, website]
 author: alexbevi
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "New Wiki"
 date: 2013-08-05 10:11
 comments: true
-categories: [news]
+categories: [news, website]
 author: DrMcCoy
 ---
 

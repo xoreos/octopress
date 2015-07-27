@@ -3,7 +3,7 @@ layout: post
 title: "Jade Empire Models and Areas"
 date: 2015-02-15 16:25:51 +0100
 comments: true
-categories: [news]
+categories: [news, progress]
 author: DrMcCoy
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "The Odd One Out: Sonic Chronicles (3/3)"
 date: 2015-06-07 02:24:12 +0200
 comments: true
-categories: [news]
+categories: [news, progress]
 author: DrMcCoy
 ---
 

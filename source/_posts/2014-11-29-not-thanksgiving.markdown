@@ -3,7 +3,7 @@ layout: post
 title: "Not-Thanksgiving"
 date: 2014-11-29 12:58
 comments: true
-categories: [news]
+categories: [news, progress]
 author: DrMcCoy
 ---
 
