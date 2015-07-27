@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "about"
+title: "About xoreos"
 date: 2013-06-07 12:05
 comments: false
 sharing: true

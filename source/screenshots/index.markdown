@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "screenshots"
+title: "Screenshots"
 date: 2013-06-17 20:26
 comments: false
 sharing: true
