@@ -23,7 +23,7 @@ footer: true
 
 |                       | |  | |  |
 |:----------------------|-|:-|-|:-|
-| &nbsp; Arch Linux AUR | | [xoreos](https://aur4.archlinux.org/packages/xoreos/) | | [xoreos-tools](https://aur4.archlinux.org/packages/xoreos-tools/) &nbsp; |
+| &nbsp; Arch Linux AUR | | [xoreos](https://aur.archlinux.org/packages/xoreos/) | | [xoreos-tools](https://aur.archlinux.org/packages/xoreos-tools/) &nbsp; |
 
 **OpenSuSE Build Service:**
 
