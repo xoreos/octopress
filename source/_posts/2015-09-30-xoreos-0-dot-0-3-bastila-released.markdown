@@ -7,7 +7,7 @@ categories: [news, releases]
 author: DrMcCoy
 ---
 
-To keep things moving following the [previous 0.0.2 release](/blog/2015/07/27/xoreos-0-dot-0-2-aribeth-released/), we're proud to announce the release version 0.0.3, nicknamed "Bastila", of [xoreos](https://github.com/xoreos/xoreos/releases/tag/v0.0.3) and [xoreos-tools](https://github.com/xoreos/xoreos-tools/releases/tag/v0.0.3).
+To keep things moving following the [previous 0.0.2 release](/blog/2015/07/27/xoreos-0-dot-0-2-aribeth-released/), we're proud to announce the release of version 0.0.3, nicknamed "Bastila", of [xoreos](https://github.com/xoreos/xoreos/releases/tag/v0.0.3) and [xoreos-tools](https://github.com/xoreos/xoreos-tools/releases/tag/v0.0.3).
 
 This release features a working script system for all targeted games, with game scripts being fired for the start of a campaign or module, when entering and leaving areas, and when clicking on in-game object. The singular exception is the Nintendo DS game *Sonic Chronicles: The Dark Brotherhood*, which doesn't seem to feature any scripts at all.
 
