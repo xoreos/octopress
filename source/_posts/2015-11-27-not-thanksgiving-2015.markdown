@@ -18,7 +18,7 @@ First of all, what happened in the last year?
 * The big one: our first official release, [xoreos 0.0.2](/blog/2015/07/27/xoreos-0-dot-0-2-aribeth-released/), nicknamed "Aribeth".
 * I overhauled the script system, making it more generic. This way, I was able to apply it to all targeted games, except *Sonic Chronicles: The Dark Brotherhood* (which doesn't seem to use any scripts at all). This included figuring out and implementing four new script bytecode opcodes: two for array access in *Dragon Age: Origins*, and two for reference creation in *Dragon Age II*.
 * I implemented reflective environment mapping for *Neverwinter Nights* and the two *Knights of the Old Republic* games.
-* I added a new tool to the [xoreos-tools](https://github.com/xoreos/xoreos-tools) package: tlk2xml, which can recreate TLK talk table files out of XML files created by xml2tlk.
+* I added a new tool to the [xoreos-tools](https://github.com/xoreos/xoreos-tools) package: xml2tlk, which can recreate TLK talk table files out of XML files created by tlk2xml.
 * With these changes, I decided to push out [xoreos 0.0.3](/blog/2015/09/30/xoreos-0-dot-0-3-bastila-released/), nicknamed "Bastila".
 
 This is all old news, more or less already discussed in previous blog posts. However, since then, I added yet another new tool to the xoreos-tools package: ncsdis. It's a disassembler for NCS files, the stack-based compiled bytecode of the C-like NWScript, BioWare's scripting language used throughout their Aurora-based games.
