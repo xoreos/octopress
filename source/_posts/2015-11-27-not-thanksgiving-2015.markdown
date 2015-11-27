@@ -41,7 +41,7 @@ Phew! This is again a bigger list than I had anticipated. This wouldn't have bee
 * I am thankful to [Supermanu](https://github.com/Supermanu), for continuing on chipping away on the *Neverwinter Nights* character generator.
 * I am thankful to [Farmboy0](https://github.com/Farmboy0), for working on xoreos' Jade Empire engine and researching game internals.
 * I am thankful to [mirv](https://github.com/mirv-sillyfish), for continuing with the huge task of rewriting my naive OpenGL code.
-* I am thankful to [Coraline Ada Ehmke](https://github.com/CoralineAda/) for the creating the Contributor Covenant.
+* I am thankful to [Coraline Ada Ehmke](https://github.com/CoralineAda/) for creating the Contributor Covenant.
 * I am thankful to all the people in the different BioWare modding communities, for having figured out many different things already. [Skywing](https://github.com/SkywingvL/) for example, who had emailed me a few years ago about certain NWScript issues, issues I recently stumbled over again.
 * I am thankful to [fuzzie](https://github.com/fuzzie), for giving me pointers on the NCS disassembler/decompiler.
 * I am thankful to the [GamingOnLinux](http://www.gamingonlinux.com/) people, who do a lot of work reporting on all sorts of Linux-related gaming news, and who so graciously mirror my xoreos blog posts.
