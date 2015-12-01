@@ -20,6 +20,7 @@ footer: true
 - [Jade Empire](https://en.wikipedia.org/wiki/Jade_Empire)
   - GOG: https://www.gog.com/gamecard/jade_empire_special_edition
   - Steam: https://store.steampowered.com/app/7110/
+  - Origin: https://www.origin.com/en-us/store/buy/jade-empire-1/pc-download/base-game/special-edition
 - [Sonic Chronicles: The Dark Brotherhood](https://en.wikipedia.org/wiki/Sonic_Chronicles:_The_Dark_Brotherhood)
 - [The Witcher](https://en.wikipedia.org/wiki/The_Witcher_%28video_game%29)
   - GOG: https://www.gog.com/gamecard/the_witcher
