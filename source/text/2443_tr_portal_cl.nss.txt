@@ -1,0 +1,30 @@
+// 2443_tr_portal_cl
+
+// If we've completed illefarn ruins, transition to 2410
+
+// EPF 8/2/06
+
+#include "ginc_transition"
+
+void main()
+{
+	object oPC = GetClickingObject();
+	
+	if(GetGlobalInt("00_bCompletedIllefarnRuins"))
+	{
+		if ( GetGlobalInt( VAR_GLOBAL_GATHER_PARTY ) == 1 )
+		{
+			if ( IsPartyGathered( oPC ) == FALSE )
+			{
+				ReportPartyGather( oPC );
+				return;
+			}
+		}
+		SetGlobalInt("nLastSongPortal",2443);
+		SinglePartyTransition(oPC, GetObjectByTag("2410_portal_exit"));
+	}
+	else
+	{
+	
+	}
+}

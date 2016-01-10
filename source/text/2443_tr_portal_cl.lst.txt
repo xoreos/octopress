@@ -1,0 +1,303 @@
+; 1492 bytes, 250 instructions
+
+; Engine types:
+; E0: Effect
+; E1: Event
+; E2: Location
+; E3: Talent
+; E4: ItemProperty
+
+_start:
+  0000000D 1E 00 00000008             JSR _global
+  00000013 20 00                      RETN
+  -------- -------------------------- ---
+_global:
+  00000015 02 03                      RSADDI
+  00000017 04 03 FF000000             CONSTI -16777216
+  0000001D 04 03 00660000             CONSTI 6684672
+  00000023 14 20                      ADDII
+  00000025 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  0000002D 1B 00 FFFFFFFC             MOVSP -4
+  00000033 02 03                      RSADDI
+  00000035 04 03 FF000000             CONSTI -16777216
+  0000003B 04 03 00005A48             CONSTI 23112
+  00000041 14 20                      ADDII
+  00000043 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  0000004B 1B 00 FFFFFFFC             MOVSP -4
+  00000051 02 03                      RSADDI
+  00000053 04 03 FF000000             CONSTI -16777216
+  00000059 04 03 00000066             CONSTI 102
+  0000005F 14 20                      ADDII
+  00000061 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  00000069 1B 00 FFFFFFFC             MOVSP -4
+  0000006F 02 03                      RSADDI
+  00000071 04 03 FF000000             CONSTI -16777216
+  00000077 04 03 00999999             CONSTI 10066329
+  0000007D 14 20                      ADDII
+  0000007F 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  00000087 1B 00 FFFFFFFC             MOVSP -4
+  0000008D 02 03                      RSADDI
+  0000008F 04 03 FF000000             CONSTI -16777216
+  00000095 04 03 00FFFF00             CONSTI 16776960
+  0000009B 14 20                      ADDII
+  0000009D 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  000000A5 1B 00 FFFFFFFC             MOVSP -4
+  000000AB 02 03                      RSADDI
+  000000AD 04 03 FF000000             CONSTI -16777216
+  000000B3 04 03 00AAAA00             CONSTI 11184640
+  000000B9 14 20                      ADDII
+  000000BB 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  000000C3 1B 00 FFFFFFFC             MOVSP -4
+  000000C9 02 03                      RSADDI
+  000000CB 04 03 FF000000             CONSTI -16777216
+  000000D1 04 03 0000FFFF             CONSTI 65535
+  000000D7 14 20                      ADDII
+  000000D9 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  000000E1 1B 00 FFFFFFFC             MOVSP -4
+  000000E7 02 03                      RSADDI
+  000000E9 04 03 FF000000             CONSTI -16777216
+  000000EF 04 03 00FF00FF             CONSTI 16711935
+  000000F5 14 20                      ADDII
+  000000F7 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  000000FF 1B 00 FFFFFFFC             MOVSP -4
+  00000105 02 03                      RSADDI
+  00000107 04 03 FF000000             CONSTI -16777216
+  0000010D 04 03 00FF9900             CONSTI 16750848
+  00000113 14 20                      ADDII
+  00000115 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  0000011D 1B 00 FFFFFFFC             MOVSP -4
+  00000123 02 03                      RSADDI
+  00000125 04 03 FF000000             CONSTI -16777216
+  0000012B 04 03 00CC6600             CONSTI 13395456
+  00000131 14 20                      ADDII
+  00000133 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  0000013B 1B 00 FFFFFFFC             MOVSP -4
+  00000141 02 03                      RSADDI
+  00000143 04 03 FF000000             CONSTI -16777216
+  00000149 04 03 00996600             CONSTI 10053120
+  0000014F 14 20                      ADDII
+  00000151 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  00000159 1B 00 FFFFFFFC             MOVSP -4
+  0000015F 02 03                      RSADDI
+  00000161 04 03 FF000000             CONSTI -16777216
+  00000167 04 03 00663300             CONSTI 6697728
+  0000016D 14 20                      ADDII
+  0000016F 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  00000177 1B 00 FFFFFFFC             MOVSP -4
+  0000017D 02 05                      RSADDS
+  0000017F 04 05 str                  CONSTS "00_nPrettyLineCount"
+  00000196 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  0000019E 1B 00 FFFFFFFC             MOVSP -4
+  000001A4 02 03                      RSADDI
+  000001A6 04 03 00000001             CONSTI 1
+  000001AC 19 03                      NEGI
+  000001AE 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  000001B6 1B 00 FFFFFFFC             MOVSP -4
+  000001BC 2A 00                      SAVEBP
+  000001BE 1E 00 00000010             JSR main
+  000001C4 2B 00                      RESTOREBP
+  000001C6 1B 00 FFFFFFC8             MOVSP -56
+  000001CC 20 00                      RETN
+  -------- -------------------------- ---
+main: ; void main()
+  000001CE 02 06                      RSADDO
+  000001D0 05 00 0146 00              ACTION GetClickingObject 0
+  000001D5 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  000001DD 1B 00 FFFFFFFC             MOVSP -4
+  000001E3 04 05 str                  CONSTS "00_bCompletedIllefarnRuins"
+  00000201 05 00 030D 01              ACTION GetGlobalInt 1
+  00000206 1F 00 000000CA             JZ loc_000002D0
+  0000020C 04 05 str                  CONSTS "bGATHER_PARTY_TRAN"
+  00000222 05 00 030D 01              ACTION GetGlobalInt 1
+  00000227 04 03 00000001             CONSTI 1
+  0000022D 0B 20                      EQII
+  0000022F 1F 00 0000004A             JZ loc_00000279
+  00000235 02 03                      RSADDI
+  00000237 03 01 FFFFFFF8 0004        CPTOPSP -8 4
+  0000023F 1E 00 0000009B             JSR sub_000002DA
+  00000245 04 03 00000000             CONSTI 0
+  0000024B 0B 20                      EQII
+  0000024D 1F 00 00000026             JZ loc_00000273
+  00000253 03 01 FFFFFFFC 0004        CPTOPSP -4 4
+  0000025B 1E 00 00000201             JSR sub_0000045C
+  00000261 1B 00 FFFFFFFC             MOVSP -4
+  00000267 1D 00 00000071             JMP loc_000002D8
+  -------- -------------------------- ---
+  0000026D 1D 00 00000006             JMP loc_00000273
+  -------- -------------------------- ---
+loc_00000273:
+  00000273 1D 00 00000006             JMP loc_00000279
+  -------- -------------------------- ---
+loc_00000279:
+  00000279 04 03 0000098B             CONSTI 2443
+  0000027F 04 05 str                  CONSTS "nLastSongPortal"
+  00000292 05 00 0309 02              ACTION SetGlobalInt 2
+  00000297 1B 00 FFFFFFFC             MOVSP -4
+  0000029D 04 03 00000000             CONSTI 0
+  000002A3 04 05 str                  CONSTS "2410_portal_exit"
+  000002B7 05 00 00C8 02              ACTION GetObjectByTag 2
+  000002BC 03 01 FFFFFFF8 0004        CPTOPSP -8 4
+  000002C4 1E 00 00000241             JSR sub_00000505
+  000002CA 1D 00 00000008             JMP loc_000002D2
+  -------- -------------------------- ---
+loc_000002D0:
+  000002D0 2D 00                      NOP
+loc_000002D2:
+  000002D2 1B 00 FFFFFFFC             MOVSP -4
+loc_000002D8:
+  000002D8 20 00                      RETN
+  -------- -------------------------- ---
+sub_000002DA: ; int sub_000002DA(object)
+  000002DA 02 06                      RSADDO
+  000002DC 03 01 FFFFFFF8 0004        CPTOPSP -8 4
+  000002E4 05 00 0018 01              ACTION GetArea 1
+  000002E9 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  000002F1 1B 00 FFFFFFFC             MOVSP -4
+  000002F7 02 06                      RSADDO
+  000002F9 04 03 00000000             CONSTI 0
+  000002FF 03 01 FFFFFFF0 0004        CPTOPSP -16 4
+  00000307 05 00 017C 02              ACTION GetFirstFactionMember 2
+  0000030C 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  00000314 1B 00 FFFFFFFC             MOVSP -4
+loc_0000031A:
+  0000031A 03 01 FFFFFFFC 0004        CPTOPSP -4 4
+  00000322 05 00 002A 01              ACTION GetIsObjectValid 1
+  00000327 04 03 00000001             CONSTI 1
+  0000032D 0B 20                      EQII
+  0000032F 1F 00 000000FF             JZ loc_0000042E
+  00000335 03 01 FFFFFFFC 0004        CPTOPSP -4 4
+  0000033D 05 00 0018 01              ACTION GetArea 1
+  00000342 03 01 FFFFFFF4 0004        CPTOPSP -12 4
+  0000034A 0B 22                      EQOO
+  0000034C 1F 00 000000BB             JZ loc_00000407
+  00000352 03 01 FFFFFFFC 0004        CPTOPSP -4 4
+  0000035A 05 00 008C 01              ACTION GetIsDead 1
+  0000035F 04 03 00000001             CONSTI 1
+  00000365 0B 20                      EQII
+  00000367 03 01 FFFFFFFC 0004        CPTOPSP -4 4
+  0000036F 1F 00 00000014             JZ loc_00000383
+  00000375 03 01 FFFFFFFC 0004        CPTOPSP -4 4
+  0000037D 1D 00 0000001B             JMP loc_00000398
+  -------- -------------------------- ---
+loc_00000383:
+  00000383 03 01 FFFFFFF8 0004        CPTOPSP -8 4
+  0000038B 05 00 01BD 01              ACTION IsInConversation 1
+  00000390 04 03 00000001             CONSTI 1
+  00000396 0B 20                      EQII
+loc_00000398:
+  00000398 07 20                      LOGORII
+  0000039A 03 01 FFFFFFFC 0004        CPTOPSP -4 4
+  000003A2 1F 00 00000014             JZ loc_000003B6
+  000003A8 03 01 FFFFFFFC 0004        CPTOPSP -4 4
+  000003B0 1D 00 00000023             JMP loc_000003D3
+  -------- -------------------------- ---
+loc_000003B6:
+  000003B6 03 01 FFFFFFF0 0004        CPTOPSP -16 4
+  000003BE 03 01 FFFFFFF4 0004        CPTOPSP -12 4
+  000003C6 05 00 0097 02              ACTION GetDistanceBetween 2
+  000003CB 04 04 43480000             CONSTF 200.000000
+  000003D1 0D 21                      GEQFF
+loc_000003D3:
+  000003D3 07 20                      LOGORII
+  000003D5 1F 00 0000002C             JZ loc_00000401
+  000003DB 04 03 00000000             CONSTI 0
+  000003E1 01 01 FFFFFFEC 0004        CPDOWNSP -20 4
+  000003E9 1B 00 FFFFFFF4             MOVSP -12
+  000003EF 1D 00 00000065             JMP loc_00000454
+  -------- -------------------------- ---
+  000003F5 1B 00 FFFFFFFC             MOVSP -4
+  000003FB 1D 00 00000006             JMP loc_00000401
+  -------- -------------------------- ---
+loc_00000401:
+  00000401 1D 00 00000006             JMP loc_00000407
+  -------- -------------------------- ---
+loc_00000407:
+  00000407 04 03 00000000             CONSTI 0
+  0000040D 03 01 FFFFFFF0 0004        CPTOPSP -16 4
+  00000415 05 00 017D 02              ACTION GetNextFactionMember 2
+  0000041A 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  00000422 1B 00 FFFFFFFC             MOVSP -4
+  00000428 1D 00 FFFFFEF2             JMP loc_0000031A
+  -------- -------------------------- ---
+loc_0000042E:
+  0000042E 04 03 00000001             CONSTI 1
+  00000434 01 01 FFFFFFEC 0004        CPDOWNSP -20 4
+  0000043C 1B 00 FFFFFFF4             MOVSP -12
+  00000442 1D 00 00000012             JMP loc_00000454
+  -------- -------------------------- ---
+  00000448 1B 00 FFFFFFFC             MOVSP -4
+  0000044E 1B 00 FFFFFFF8             MOVSP -8
+loc_00000454:
+  00000454 1B 00 FFFFFFFC             MOVSP -4
+  0000045A 20 00                      RETN
+  -------- -------------------------- ---
+sub_0000045C: ; void sub_0000045C(object)
+  0000045C 04 05 str                  CONSTS "SCREEN_MESSAGEBOX_DEFAULT"
+  00000479 03 01 FFFFFFF8 0004        CPTOPSP -8 4
+  00000481 05 00 0372 02              ACTION CloseGUIScreen 2
+  00000486 2C 01 10 00000038 00000004 STORESTATE sta_00000496 56 4
+  00000490 1D 00 00000062             JMP loc_000004F2
+  -------- -------------------------- ---
+sta_00000496:
+  00000496 04 05 str                  CONSTS ""
+  0000049A 04 03 00000001             CONSTI 1
+  000004A0 19 03                      NEGI
+  000004A2 04 05 str                  CONSTS ""
+  000004A6 04 03 00000001             CONSTI 1
+  000004AC 19 03                      NEGI
+  000004AE 04 05 str                  CONSTS "SCREEN_MESSAGEBOX_DEFAULT"
+  000004CB 04 03 00000000             CONSTI 0
+  000004D1 04 05 str                  CONSTS ""
+  000004D5 04 05 str                  CONSTS ""
+  000004D9 04 05 str                  CONSTS ""
+  000004DD 04 03 00027836             CONSTI 161846
+  000004E3 03 01 FFFFFFD4 0004        CPTOPSP -44 4
+  000004EB 05 00 035C 0B              ACTION DisplayMessageBox 11
+  000004F0 20 00                      RETN
+  -------- -------------------------- ---
+loc_000004F2:
+  000004F2 04 04 3DCCCCCD             CONSTF 0.100000
+  000004F8 05 00 0007 02              ACTION DelayCommand 2
+  000004FD 1B 00 FFFFFFFC             MOVSP -4
+  00000503 20 00                      RETN
+  -------- -------------------------- ---
+sub_00000505: ; void sub_00000505(object, object)
+  00000505 02 10                      RSADDE0
+  00000507 05 00 0052 00              ACTION EffectResurrection 0
+  0000050C 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  00000514 1B 00 FFFFFFFC             MOVSP -4
+  0000051A 02 06                      RSADDO
+  0000051C 04 03 00000000             CONSTI 0
+  00000522 03 01 FFFFFFF0 0004        CPTOPSP -16 4
+  0000052A 05 00 017C 02              ACTION GetFirstFactionMember 2
+  0000052F 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  00000537 1B 00 FFFFFFFC             MOVSP -4
+loc_0000053D:
+  0000053D 03 01 FFFFFFFC 0004        CPTOPSP -4 4
+  00000545 05 00 002A 01              ACTION GetIsObjectValid 1
+  0000054A 04 03 00000001             CONSTI 1
+  00000550 0B 20                      EQII
+  00000552 1F 00 0000005F             JZ loc_000005B1
+  00000558 04 06 00000000             CONSTO 0
+  0000055E 04 03 00000001             CONSTI 1
+  00000564 05 00 00A2 02              ACTION SetCommandable 2
+  00000569 04 04 00000000             CONSTF 0.000000
+  0000056F 03 01 FFFFFFF8 0004        CPTOPSP -8 4
+  00000577 03 01 FFFFFFF0 0004        CPTOPSP -16 4
+  0000057F 04 03 00000000             CONSTI 0
+  00000585 05 00 00DC 04              ACTION ApplyEffectToObject 4
+  0000058A 04 03 00000000             CONSTI 0
+  00000590 03 01 FFFFFFF0 0004        CPTOPSP -16 4
+  00000598 05 00 017D 02              ACTION GetNextFactionMember 2
+  0000059D 01 01 FFFFFFF8 0004        CPDOWNSP -8 4
+  000005A5 1B 00 FFFFFFFC             MOVSP -4
+  000005AB 1D 00 FFFFFF92             JMP loc_0000053D
+  -------- -------------------------- ---
+loc_000005B1:
+  000005B1 03 01 FFFFFFF0 0004        CPTOPSP -16 4
+  000005B9 03 01 FFFFFFF0 0004        CPTOPSP -16 4
+  000005C1 05 00 035A 02              ACTION JumpPartyToArea 2
+  000005C6 1B 00 FFFFFFF8             MOVSP -8
+  000005CC 1B 00 FFFFFFF8             MOVSP -8
+  000005D2 20 00                      RETN
+  -------- -------------------------- ---
