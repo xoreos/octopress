@@ -48,7 +48,7 @@ Record where a subroutine calls another and link the caller and callee, so that 
 
 **6) Identify "special" subroutines**
 
-There's three special subroutine that we can identify:
+There are three special subroutines that we can identify:
 
 - \_start(), the very first subroutine that starts execution of the script. It's the subroutine that contains the very first instruction in the .ncs file.
 - \_global(), which, if it exists, sets up the global variables. This is the subroutine that contains an instruction with a `SAVEBP` opcode.
