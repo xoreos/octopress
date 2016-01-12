@@ -36,7 +36,7 @@ Each instruction may have a follower, the instruction that follows naturally. Fo
 
 **3) Create blocks**
 
-Group the instructions into [blocks](https://en.wikipedia.org/wiki/Basic_block). A block is a sequence of instructions the follow each other, with two constraints: a jump into a block can only land at the beginning of a block and a jump out of a block can only happen at the end of the block.
+Group the instructions into [blocks](https://en.wikipedia.org/wiki/Basic_block). A block is a sequence of instructions that follow each other, with two constraints: a jump into a block can only land at the beginning of a block and a jump out of a block can only happen at the end of the block.
 
 **4) Create subroutines**
 
