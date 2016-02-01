@@ -9,15 +9,15 @@ footer: true
 
 ### xoreos 0.0.4 "Chodo" ###
 
-|                                   | |  | |  |
-|:----------------------------------|-|:-|-|:-|
-| &nbsp; Repository                 | | [xoreos](https://github.com/xoreos/xoreos/tree/v0.0.4) | | [xoreos-tools](https://github.com/xoreos/xoreos-tools/tree/v0.0.4) &nbsp; |
-| &nbsp; Source                     | | [xoreos-0.0.4.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.4/xoreos-0.0.4.tar.gz) | | [xoreos-tools-0.0.4.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.4/xoreos-tools-0.0.4.tar.gz) &nbsp; |
-| &nbsp; GNU/Linux (32-bit)         | | [xoreos-0.0.4-linux32.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.4/xoreos-0.0.4-linux32.tar.gz) | | [xoreos-tools-0.0.4-linux32.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.4/xoreos-tools-0.0.4-linux32.tar.gz) &nbsp; |
-| &nbsp; GNU/Linux (64-bit)         | | [xoreos-0.0.4-linux64.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.4/xoreos-0.0.4-linux64.tar.gz) | | [xoreos-tools-0.0.4-linux64.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.4/xoreos-tools-0.0.4-linux64.tar.gz) &nbsp; |
-| &nbsp; Microsoft Windows (32-bit) | | [xoreos-0.0.4-win32.zip](https://github.com/xoreos/xoreos/releases/download/v0.0.4/xoreos-0.0.4-win32.zip) | | [xoreos-tools-0.0.4-win32.zip](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.4/xoreos-tools-0.0.4-win32.zip) &nbsp; |
-| &nbsp; Microsoft Windows (64-bit) | | [xoreos-0.0.4-win64.zip](https://github.com/xoreos/xoreos/releases/download/v0.0.4/xoreos-0.0.4-win64.zip) | | [xoreos-tools-0.0.4-win64.zip](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.4/xoreos-tools-0.0.4-win64.zip) &nbsp; |
-| &nbsp; Mac OS X (32-bit/64-bit)   | | [xoreos-0.0.4-mac.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.4/xoreos-0.0.4-mac.tar.gz) | | [xoreos-tools-0.0.4-mac.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.4/xoreos-tools-0.0.4-mac.tar.gz) &nbsp; |
+|                                         | |  | |  |
+|:----------------------------------------|-|:-|-|:-|
+| &nbsp; Repository                       | | [xoreos](https://github.com/xoreos/xoreos/tree/v0.0.4) | | [xoreos-tools](https://github.com/xoreos/xoreos-tools/tree/v0.0.4) &nbsp; |
+| &nbsp; Source                           | | [xoreos-0.0.4.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.4/xoreos-0.0.4.tar.gz) | | [xoreos-tools-0.0.4.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.4/xoreos-tools-0.0.4.tar.gz) &nbsp; |
+| &nbsp; GNU/Linux (Intel 32-bit)         | | [xoreos-0.0.4-linux32.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.4/xoreos-0.0.4-linux32.tar.gz) | | [xoreos-tools-0.0.4-linux32.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.4/xoreos-tools-0.0.4-linux32.tar.gz) &nbsp; |
+| &nbsp; GNU/Linux (Intel 64-bit)         | | [xoreos-0.0.4-linux64.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.4/xoreos-0.0.4-linux64.tar.gz) | | [xoreos-tools-0.0.4-linux64.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.4/xoreos-tools-0.0.4-linux64.tar.gz) &nbsp; |
+| &nbsp; Microsoft Windows (Intel 32-bit) | | [xoreos-0.0.4-win32.zip](https://github.com/xoreos/xoreos/releases/download/v0.0.4/xoreos-0.0.4-win32.zip) | | [xoreos-tools-0.0.4-win32.zip](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.4/xoreos-tools-0.0.4-win32.zip) &nbsp; |
+| &nbsp; Microsoft Windows (Intel 64-bit) | | [xoreos-0.0.4-win64.zip](https://github.com/xoreos/xoreos/releases/download/v0.0.4/xoreos-0.0.4-win64.zip) | | [xoreos-tools-0.0.4-win64.zip](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.4/xoreos-tools-0.0.4-win64.zip) &nbsp; |
+| &nbsp; Mac OS X (Intel 32-bit/64-bit)   | | [xoreos-0.0.4-mac.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.4/xoreos-0.0.4-mac.tar.gz) | | [xoreos-tools-0.0.4-mac.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.4/xoreos-tools-0.0.4-mac.tar.gz) &nbsp; |
 
 **Arch Linux AUR:**
 
@@ -27,18 +27,18 @@ footer: true
 
 **OpenSuSE Build Service:**
 
-|                                             | |  | |  |
-|:--------------------------------------------|-|:-|-|:-|
-| &nbsp; Arch Linux (32-bit/64-bit)           | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
-| &nbsp; Debian GNU/Linux 8.0 (32-bit/64-bit) | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
-| &nbsp; Fedora 21 (32-bit/64-bit)            | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
-| &nbsp; Fedora 22 (32-bit/64-bit)            | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
-| &nbsp; OpenSuSE 13.1 (32-bit/64-bit)        | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
-| &nbsp; OpenSuSE 13.2 (32-bit/64-bit)        | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
-| &nbsp; OpenSuSE Tumbleweed (32-bit/64-bit)  | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
-| &nbsp; Ubuntu 14.04 (32-bit/64-bit)         | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
-| &nbsp; Ubuntu 14.10 (32-bit/64-bit)         | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
-| &nbsp; Ubuntu 15.04 (32-bit/64-bit)         | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
+|                                                   | |  | |  |
+|:--------------------------------------------------|-|:-|-|:-|
+| &nbsp; Arch Linux (Intel 32-bit/64-bit)           | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
+| &nbsp; Debian GNU/Linux 8.0 (Intel 32-bit/64-bit) | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
+| &nbsp; Fedora 21 (Intel 32-bit/64-bit)            | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
+| &nbsp; Fedora 22 (Intel 32-bit/64-bit)            | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
+| &nbsp; OpenSuSE 13.1 (Intel 32-bit/64-bit)        | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
+| &nbsp; OpenSuSE 13.2 (Intel 32-bit/64-bit)        | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
+| &nbsp; OpenSuSE Tumbleweed (Intel 32-bit/64-bit)  | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
+| &nbsp; Ubuntu 14.04 (Intel 32-bit/64-bit)         | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
+| &nbsp; Ubuntu 14.10 (Intel 32-bit/64-bit)         | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
+| &nbsp; Ubuntu 15.04 (Intel 32-bit/64-bit)         | | [xoreos](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos) | | [xoreos-tools](https://software.opensuse.org/download.html?project=home%3ADrMcCoy%3Axoreos&package=xoreos-tools) &nbsp; |
 
 ### Current development repositories ###
 
@@ -53,24 +53,24 @@ footer: true
 
 ### xoreos 0.0.3 "Bastila" (Old release) ###
 
-|                                   | |  | |  |
-|:----------------------------------|-|:-|-|:-|
-| &nbsp; Repository                 | | [xoreos](https://github.com/xoreos/xoreos/tree/v0.0.3) | | [xoreos-tools](https://github.com/xoreos/xoreos-tools/tree/v0.0.3) &nbsp; |
-| &nbsp; Source                     | | [xoreos-0.0.3.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.3/xoreos-0.0.3.tar.gz) | | [xoreos-tools-0.0.3.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.3/xoreos-tools-0.0.3.tar.gz) &nbsp; |
-| &nbsp; GNU/Linux (32-bit)         | | [xoreos-0.0.3-linux32.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.3/xoreos-0.0.3-linux32.tar.gz) | | [xoreos-tools-0.0.3-linux32.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.3/xoreos-tools-0.0.3-linux32.tar.gz) &nbsp; |
-| &nbsp; GNU/Linux (64-bit)         | | [xoreos-0.0.3-linux64.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.3/xoreos-0.0.3-linux64.tar.gz) | | [xoreos-tools-0.0.3-linux64.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.3/xoreos-tools-0.0.3-linux64.tar.gz) &nbsp; |
-| &nbsp; Microsoft Windows (32-bit) | | [xoreos-0.0.3-win32.zip](https://github.com/xoreos/xoreos/releases/download/v0.0.3/xoreos-0.0.3-win32.zip) | | [xoreos-tools-0.0.3-win32.zip](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.3/xoreos-tools-0.0.3-win32.zip) &nbsp; |
-| &nbsp; Microsoft Windows (64-bit) | | [xoreos-0.0.3-win64.zip](https://github.com/xoreos/xoreos/releases/download/v0.0.3/xoreos-0.0.3-win64.zip) | | [xoreos-tools-0.0.3-win64.zip](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.3/xoreos-tools-0.0.3-win64.zip) &nbsp; |
-| &nbsp; Mac OS X (32-bit/64-bit)   | | [xoreos-0.0.3-mac.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.3/xoreos-0.0.3-mac.tar.gz) | | [xoreos-tools-0.0.3-mac.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.3/xoreos-tools-0.0.3-mac.tar.gz) &nbsp; |
+|                                         | |  | |  |
+|:----------------------------------------|-|:-|-|:-|
+| &nbsp; Repository                       | | [xoreos](https://github.com/xoreos/xoreos/tree/v0.0.3) | | [xoreos-tools](https://github.com/xoreos/xoreos-tools/tree/v0.0.3) &nbsp; |
+| &nbsp; Source                           | | [xoreos-0.0.3.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.3/xoreos-0.0.3.tar.gz) | | [xoreos-tools-0.0.3.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.3/xoreos-tools-0.0.3.tar.gz) &nbsp; |
+| &nbsp; GNU/Linux (Intel 32-bit)         | | [xoreos-0.0.3-linux32.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.3/xoreos-0.0.3-linux32.tar.gz) | | [xoreos-tools-0.0.3-linux32.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.3/xoreos-tools-0.0.3-linux32.tar.gz) &nbsp; |
+| &nbsp; GNU/Linux (Intel 64-bit)         | | [xoreos-0.0.3-linux64.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.3/xoreos-0.0.3-linux64.tar.gz) | | [xoreos-tools-0.0.3-linux64.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.3/xoreos-tools-0.0.3-linux64.tar.gz) &nbsp; |
+| &nbsp; Microsoft Windows (Intel 32-bit) | | [xoreos-0.0.3-win32.zip](https://github.com/xoreos/xoreos/releases/download/v0.0.3/xoreos-0.0.3-win32.zip) | | [xoreos-tools-0.0.3-win32.zip](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.3/xoreos-tools-0.0.3-win32.zip) &nbsp; |
+| &nbsp; Microsoft Windows (Intel 64-bit) | | [xoreos-0.0.3-win64.zip](https://github.com/xoreos/xoreos/releases/download/v0.0.3/xoreos-0.0.3-win64.zip) | | [xoreos-tools-0.0.3-win64.zip](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.3/xoreos-tools-0.0.3-win64.zip) &nbsp; |
+| &nbsp; Mac OS X (Intel 32-bit/64-bit)   | | [xoreos-0.0.3-mac.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.3/xoreos-0.0.3-mac.tar.gz) | | [xoreos-tools-0.0.3-mac.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.3/xoreos-tools-0.0.3-mac.tar.gz) &nbsp; |
 
 ### xoreos 0.0.2 "Aribeth" (Old release) ###
 
-|                                   | |  | |  |
-|:----------------------------------|-|:-|-|:-|
-| &nbsp; Repository                 | | [xoreos](https://github.com/xoreos/xoreos/tree/v0.0.2) | | [xoreos-tools](https://github.com/xoreos/xoreos-tools/tree/v0.0.2) &nbsp; |
-| &nbsp; Source                     | | [xoreos-0.0.2.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.2/xoreos-0.0.2.tar.gz) | | [xoreos-tools-0.0.2.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.2/xoreos-tools-0.0.2.tar.gz) &nbsp; |
-| &nbsp; GNU/Linux (32-bit)         | | [xoreos-0.0.2-linux32.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.2/xoreos-0.0.2-linux32.tar.gz) | | [xoreos-tools-0.0.2-linux32.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.2/xoreos-tools-0.0.2-linux32.tar.gz) &nbsp; |
-| &nbsp; GNU/Linux (64-bit)         | | [xoreos-0.0.2-linux64.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.2/xoreos-0.0.2-linux64.tar.gz) | | [xoreos-tools-0.0.2-linux64.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.2/xoreos-tools-0.0.2-linux64.tar.gz) &nbsp; |
-| &nbsp; Microsoft Windows (32-bit) | | [xoreos-0.0.2-win32.zip](https://github.com/xoreos/xoreos/releases/download/v0.0.2/xoreos-0.0.2-win32.zip) | | [xoreos-tools-0.0.2-win32.zip](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.2/xoreos-tools-0.0.2-win32.zip) &nbsp; |
-| &nbsp; Microsoft Windows (64-bit) | | [xoreos-0.0.2-win64.zip](https://github.com/xoreos/xoreos/releases/download/v0.0.2/xoreos-0.0.2-win64.zip) | | [xoreos-tools-0.0.2-win64.zip](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.2/xoreos-tools-0.0.2-win64.zip) &nbsp; |
-| &nbsp; Mac OS X (32-bit/64-bit)   | | [xoreos-0.0.2-mac.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.2/xoreos-0.0.2-mac.tar.gz) | | [xoreos-tools-0.0.2-mac.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.2/xoreos-tools-0.0.2-mac.tar.gz) &nbsp; |
+|                                         | |  | |  |
+|:----------------------------------------|-|:-|-|:-|
+| &nbsp; Repository                       | | [xoreos](https://github.com/xoreos/xoreos/tree/v0.0.2) | | [xoreos-tools](https://github.com/xoreos/xoreos-tools/tree/v0.0.2) &nbsp; |
+| &nbsp; Source                           | | [xoreos-0.0.2.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.2/xoreos-0.0.2.tar.gz) | | [xoreos-tools-0.0.2.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.2/xoreos-tools-0.0.2.tar.gz) &nbsp; |
+| &nbsp; GNU/Linux (Intel 32-bit)         | | [xoreos-0.0.2-linux32.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.2/xoreos-0.0.2-linux32.tar.gz) | | [xoreos-tools-0.0.2-linux32.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.2/xoreos-tools-0.0.2-linux32.tar.gz) &nbsp; |
+| &nbsp; GNU/Linux (Intel 64-bit)         | | [xoreos-0.0.2-linux64.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.2/xoreos-0.0.2-linux64.tar.gz) | | [xoreos-tools-0.0.2-linux64.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.2/xoreos-tools-0.0.2-linux64.tar.gz) &nbsp; |
+| &nbsp; Microsoft Windows (Intel 32-bit) | | [xoreos-0.0.2-win32.zip](https://github.com/xoreos/xoreos/releases/download/v0.0.2/xoreos-0.0.2-win32.zip) | | [xoreos-tools-0.0.2-win32.zip](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.2/xoreos-tools-0.0.2-win32.zip) &nbsp; |
+| &nbsp; Microsoft Windows (Intel 64-bit) | | [xoreos-0.0.2-win64.zip](https://github.com/xoreos/xoreos/releases/download/v0.0.2/xoreos-0.0.2-win64.zip) | | [xoreos-tools-0.0.2-win64.zip](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.2/xoreos-tools-0.0.2-win64.zip) &nbsp; |
+| &nbsp; Mac OS X (Intel 32-bit/64-bit)   | | [xoreos-0.0.2-mac.tar.gz](https://github.com/xoreos/xoreos/releases/download/v0.0.2/xoreos-0.0.2-mac.tar.gz) | | [xoreos-tools-0.0.2-mac.tar.gz](https://github.com/xoreos/xoreos-tools/releases/download/v0.0.2/xoreos-tools-0.0.2-mac.tar.gz) &nbsp; |
