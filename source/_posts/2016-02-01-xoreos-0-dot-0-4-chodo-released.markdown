@@ -13,7 +13,7 @@ In this release, Neverwinter Nights now shows speech bubbles for conversation on
 
 -> [{% imgcap /images/blog/20160201_bubbles_t.png 256 170 Speech bubbles %}](/images/blog/20160201_bubbles.png) <-
 
-An oversight in the handling of the texture fonts used in Neverwinter Nights and the two Knights of Old Republic games has been fixed. This oversight broke rendering of certain characters, most prominently of those used in eastern European languages and the "smart" single quotation mark that's used instead of an apostrophe in some strings found in the French versions.
+An oversight in the handling of the texture fonts used in Neverwinter Nights and the two Knights of the Old Republic games has been fixed. This oversight broke rendering of certain characters, most prominently of those used in eastern European languages and the "smart" single quotation mark that's used instead of an apostrophe in some strings found in the French versions.
 
 For xoreos-tools, there's two new tools: fixpremiumgff and ncsdis.
 
