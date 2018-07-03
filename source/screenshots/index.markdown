@@ -31,11 +31,11 @@ footer: true
 
 #### Main Menu ####
 
--> [{% imgcap /screenshots/kotor2/menu01_t.png 256 192 Main Menu %}](/screenshots/kotor2/menu01.png) <-
+-> [{% imgcap /screenshots/kotor2/menu01_t.png 256 192 Main Menu %}](/screenshots/kotor2/menu01.png) [{% imgcap /screenshots/kotor2/menu02_t.png 256 192 Character generator %}](/screenshots/kotor2/menu02.png) <-
 
 #### Ingame ####
 
--> [{% imgcap /screenshots/kotor2/ingame01_t.png 256 192 Starting point %}](/screenshots/kotor2/ingame01.png) [{% imgcap /screenshots/kotor2/ingame02_t.png 256 192 Selecting objects %}](/screenshots/kotor2/ingame02.png) [{% imgcap /screenshots/kotor2/ingame03_t.png 256 192 Area overview %}](/screenshots/kotor2/ingame03.png) <-
+-> [{% imgcap /screenshots/kotor2/ingame01_t.png 256 192 Conversation %}](/screenshots/kotor2/ingame01.png) [{% imgcap /screenshots/kotor2/ingame02_t.png 256 192 Conversation %}](/screenshots/kotor2/ingame02.png) <-
 
 ## Neverwinter Nights 2 ##
 
