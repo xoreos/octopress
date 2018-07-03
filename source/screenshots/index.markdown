@@ -21,11 +21,11 @@ footer: true
 
 #### Main Menu ####
 
--> [{% imgcap /screenshots/kotor/menu01_t.png 256 192 Main Menu %}](/screenshots/kotor/menu01.png) <-
+-> [{% imgcap /screenshots/kotor/menu01_t.png 256 192 Main Menu %}](/screenshots/kotor/menu01.png) [{% imgcap /screenshots/kotor/menu02_t.png 256 192 Character generator %}](/screenshots/kotor/menu02.png) <-
 
 #### Ingame ####
 
--> [{% imgcap /screenshots/kotor/ingame01_t.png 256 192 Missing shaders %}](/screenshots/kotor/ingame01.png) [{% imgcap /screenshots/kotor/ingame02_t.png 256 192 Missing texture properties %}](/screenshots/kotor/ingame02.png) [{% imgcap /screenshots/kotor/ingame03_t.png 256 192 Selecting objects %}](/screenshots/kotor/ingame03.png) [{% imgcap /screenshots/kotor/ingame04_t.png 256 192 Area overview %}](/screenshots/kotor/ingame04.png) <-
+-> [{% imgcap /screenshots/kotor/ingame01_t.png 256 192 Conversations %}](/screenshots/kotor/ingame01.png) [{% imgcap /screenshots/kotor/ingame02_t.png 256 192 Taking items %}](/screenshots/kotor/ingame02.png) [{% imgcap /screenshots/kotor/ingame03_t.png 256 192 Equipping items %}](/screenshots/kotor/ingame03.png) [{% imgcap /screenshots/kotor/ingame04_t.png 256 192 Equipment on models %}](/screenshots/kotor/ingame04.png) [{% imgcap /screenshots/kotor/ingame05_t.png 256 192 Missing shaders %}](/screenshots/kotor/ingame05.png) [{% imgcap /screenshots/kotor/ingame06_t.png 256 192 Reflective environment mapping %}](/screenshots/kotor/ingame06.png) <-
 
 ## Knights of the Old Republic II ##
 
