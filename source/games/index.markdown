@@ -39,6 +39,6 @@ footer: true
 
 The newer games should also still be available on standard (online) retailers.
 
-see also: https://en.wikipedia.org/wiki/Aurora_engine#Aurora_Engine
+See also: https://en.wikipedia.org/wiki/Aurora_engine#Aurora_Engine
 
 [^1]: In 2018, [Beamdog](https://en.wikipedia.org/wiki/Beamdog) released an overhauled "Enhanced Edition" of Neverwinter Nights. Currently, xoreos only recognizes the original, unenhanced version of the game, such as the Diamond Edition (which is the original base game and all expansions). Both GOG and Steam currently only sell the Enhanced Edition, but when buying on GOG, you get the original Diamond Edition as well. On Steam, you don't get the Diamond Edition at all.
