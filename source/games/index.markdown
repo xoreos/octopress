@@ -34,6 +34,7 @@ footer: true
   - Steam: https://store.steampowered.com/app/47810/
   - Origin: https://www.origin.com/en-us/store/buy/dragon-age-1/pc-download/bundle/ultimate-edition
 - [Dragon Age II](https://en.wikipedia.org/wiki/Dragon_Age_II)
+  - Steam: https://store.steampowered.com/app/1238040/Dragon_Age_II/
   - Origin: https://www.origin.com/en-us/store/buy/dragon-age-2/mac-pc-download/base-game/standard-edition
 
 The newer games should also still be available on standard (online) retailers.
