@@ -7,8 +7,9 @@ sharing: false
 footer: true
 ---
 
-- [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights)
-  - GOG: https://www.gog.com/gamecard/neverwinter_nights_diamond_edition
+- [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights) [^1]
+  - GOG: https://www.gog.com/game/neverwinter_nights_enhanced_edition_pack (includes the original [Diamond Edition](https://en.wikipedia.org/wiki/Neverwinter_Nights#Editions_and_re-releases))
+  - Steam: https://store.steampowered.com/app/704450/Neverwinter_Nights_Enhanced_Edition/ (does *not* include the original [Diamond Edition](https://en.wikipedia.org/wiki/Neverwinter_Nights#Editions_and_re-releases))
 - [Neverwinter Nights 2](https://en.wikipedia.org/wiki/Neverwinter_Nights_2)
   - GOG: https://www.gog.com/gamecard/neverwinter_nights_2_complete
 - [Star Wars: Knights of the Old Republic](https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic)
@@ -35,3 +36,5 @@ footer: true
 The newer games should also still be available on standard (online) retailers.
 
 see also: https://en.wikipedia.org/wiki/Aurora_engine#Aurora_Engine
+
+[^1]: In 2018, [Beamdog](https://en.wikipedia.org/wiki/Beamdog) released an overhauled "Enhanced Edition" of Neverwinter Nights. Currently, xoreos only recognizes the original, unenhanced version of the game, such as the Diamond Edition (which is the original base game and all expansions). Both GOG and Steam currently only sell the Enhanced Edition, but when buying on GOG, you get the original Diamond Edition as well. On Steam, you don't get the Diamond Edition at all.
