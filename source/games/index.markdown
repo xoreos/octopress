@@ -28,6 +28,7 @@ footer: true
 - [The Witcher](https://en.wikipedia.org/wiki/The_Witcher_%28video_game%29)
   - GOG: https://www.gog.com/gamecard/the_witcher
   - Steam: https://store.steampowered.com/app/20900/
+  - Origin: https://www.origin.com/en-us/store/buy/witcher/the-witcher
 - [Dragon Age: Origins](https://en.wikipedia.org/wiki/Dragon_Age:_Origins)
   - GOG: https://www.gog.com/game/dragon_age_origins
   - Steam: https://store.steampowered.com/app/47810/
